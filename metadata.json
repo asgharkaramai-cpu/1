@@ -1,0 +1,6 @@
+{
+  "name": "سامانه جامع اتوماسیون اداری و مدیریت چندشرکتی",
+  "description": "سامانه سازمانی چندمستاجری و چندشرکتی (Multi-Tenant) اتوماسیون اداری، دبیرخانه، بایگانی امن، امور مالی، سهامداران، جلسات هیئت‌مدیره، امضای دیجیتال و کلاینت اندروید",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
